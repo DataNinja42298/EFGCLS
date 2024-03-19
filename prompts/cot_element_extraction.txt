@@ -1,0 +1,1 @@
+Extract factual relationships in above article, then please evaluate and rank the factual relationships in descending order of their importance:
